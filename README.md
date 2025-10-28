@@ -39,11 +39,8 @@ I'm **Dzmitry**, a passionate frontend developer crafting beautiful and function
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dzmitrydev">
+  <a href="https://www.linkedin.com/in/dzmitrydev" target="_blank" >
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kyoumaw">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:oreincof@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
