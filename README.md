@@ -1,50 +1,62 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi there! こんにちは! I'm Dzmitry
-</h1>
+## 🖐️ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! こんにちは! Hola! Bonjour! Ciao! Hallo! 👋
 
-<h3 align="center">A frontend developer who loves to bring ideas to life in the browser.</h3>
+I'm **Dzmitry**, a passionate frontend developer crafting beautiful and functional user interfaces.
 
 ---
 
-### 👨‍💻 What I'm up to
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on **something cool** 😉
-- 🌱 I’m currently learning **Three.js** and **Advanced React Patterns**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **React, JS, UI/UX, or why I think Svelte is interesting**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
----
-
-### 🎮 Fun GitHub Stats
-
-<div align="center">
-
-![Dzmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoumaw&show_icons=true&theme=vision-friendly-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kyoumaw&theme=dark)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/kyoumaw/kyoumaw/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+**Tools & Others**  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat-square&logo=webpack&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![NVIM](https://img.shields.io/badge/-NVIM-000000?style=flat-square&logo=neovim&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
-### 📬 Connect with me
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
-  </a>
-  <a href="https://kyoumaw.dev">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/>
+  <a href="https://github.com/kyoumaw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyoumaw&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoumaw&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
 
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dzmitrydev">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kyoumaw">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:oreincof@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=kyoumaw&color=000000&style=flat-square)
+
+</div>
+
 <!---
 kyoumaw/kyoumaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
