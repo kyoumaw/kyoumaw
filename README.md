@@ -47,7 +47,7 @@ I'm **Dzmitry**, a passionate frontend developer crafting beautiful and function
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=kyoumaw&color=000000&style=flat-square)
 
