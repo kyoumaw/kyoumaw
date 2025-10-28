@@ -1,4 +1,4 @@
-## 🖐️ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! こんにちは! Hola! Bonjour! Ciao! Hallo! 👋
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! こんにちは! Hola! Bonjour! Ciao! Hallo!
 
 I'm **Dzmitry**, a passionate frontend developer crafting beautiful and functional user interfaces.
 
