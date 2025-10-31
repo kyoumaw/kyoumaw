@@ -29,7 +29,7 @@ I'm **Dzmitry**, a passionate frontend developer crafting beautiful and function
 
 <p align="left">
   <a href="https://github.com/kyoumaw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyoumaw&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyoumaw&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoumaw&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </p>
